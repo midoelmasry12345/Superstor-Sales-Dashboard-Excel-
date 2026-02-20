@@ -1,4 +1,5 @@
-![Dashboard Preview](dashboard.png)
+<img width="1872" height="713" alt="image" src="https://github.com/user-attachments/assets/d4da5393-4f23-4fc9-89fb-bc663a03d73e" />
+
 Superstore Sales Dashboard (Excel)
 Overview
 
