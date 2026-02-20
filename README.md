@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard.png)
 Superstore Sales Dashboard (Excel)
 Overview
 
