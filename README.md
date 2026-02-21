@@ -7,7 +7,7 @@ This project presents an interactive Sales Dashboard built in Microsoft Excel us
 
 It is designed to help stakeholders quickly explore performance insights and make data-driven decisions through dynamic visualizations and filters.
 
-Objectives
+- Objectives
 
 Analyze overall sales and profitability
 
@@ -17,7 +17,7 @@ Track trends across time
 
 Provide an interactive dashboard for business insights
 
-Tools & Skills Used
+- Tools & Skills Used
 
 Microsoft Excel
 
